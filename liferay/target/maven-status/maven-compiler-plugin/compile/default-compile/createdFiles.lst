@@ -1,0 +1,8 @@
+farias\rafael\liferay\models\Product.class
+farias\rafael\liferay\models\ProductType.class
+farias\rafael\liferay\exceptions\InvalidProductException.class
+farias\rafael\liferay\models\Receipt.class
+farias\rafael\liferay\utils\MathUtils.class
+farias\rafael\liferay\controllers\ReceiptController.class
+farias\rafael\liferay\GenerateReceipts.class
+farias\rafael\liferay\models\Item.class
